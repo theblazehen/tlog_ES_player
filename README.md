@@ -1,6 +1,6 @@
 Makes it easier to play tlog recordings in elasticsearch, by finding all relevant sessions and presenting them in a menu
 
-Requires `dialog` installed, python3.6 or newer, and the tlog-play binary in your $PATH
+Requires `dialog` installed, python3.6 or newer, and the tlog-play binary in your $PATH. Needs mapping from https://github.com/Scribery/tlog/blob/master/doc/mapping.json applied
 
 # Usage
 ```
